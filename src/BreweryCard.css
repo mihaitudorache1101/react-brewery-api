@@ -1,0 +1,12 @@
+.col {
+  display: flex;
+}
+
+.brewery-card {
+  flex: 1;
+  background-color: lightblue;
+  margin: 1rem;
+  padding: 1rem;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
